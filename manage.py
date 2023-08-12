@@ -1,3 +1,4 @@
+#s
 #!/usr/bin/env python
 #N
 """Django's command-line utility for administrative tasks."""
